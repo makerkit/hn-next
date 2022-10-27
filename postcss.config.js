@@ -1,3 +1,5 @@
 module.exports = {
-  tailwindcss: {},
+  plugins: {
+    tailwindcss: {},
+  },
 };
